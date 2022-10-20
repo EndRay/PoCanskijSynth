@@ -1,0 +1,2 @@
+class CyclicStructureError(Exception):
+    pass
